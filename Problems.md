@@ -1,4 +1,4 @@
-# Problems for Sigma Developers
+# Problems:-
 
 1. The Magical Sorting Hat:
    Imagine you are creating a magical sorting hat for a wizard school. Implement a JavaScript function that takes an array of student names and assigns them to one of the four houses (Gryffindor (length less than 6), Hufflepuff(length less than 8), Ravenclaw(length less than 12), or Slytherin(length greater than or equal to 12)) based on the length of their names.
@@ -19,7 +19,7 @@
    You need to create a function that counts the number of vowels in a given string. Consider both uppercase and lowercase vowels.
 
 7. The Local Storage Manager:
-    You are working on a note-taking app, and you want to implement a function named saveNoteToLocalStorage that takes a note object and saves it to the browser's local storage.
+   You are working on a note-taking app, and you want to implement a function named saveNoteToLocalStorage that takes a note object and saves it to the browser's local storage.
 
 8. Async Array Mapping:
    Write an asynchronous function that takes an array of numbers and returns a new array of Promises where each number is multiplied by 2 after a delay of 500 milliseconds.
